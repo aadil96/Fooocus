@@ -1,5 +1,5 @@
 {
-    "default_model": "sdxlYamersRealisticNSFW_v4VAE.safetensors",
+    "default_model": "sdxIYAMERSPERFECTDESIGN_v6SpecialGift.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "sdxlYamersRealisticNSFW_v4VAE.safetensors": "https://civitai.com/api/download/models/227767?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "sdxIYAMERSPERFECTDESIGN_v6SpecialGift.safetensors": "https://civitai.com/api/download/models/249979?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
