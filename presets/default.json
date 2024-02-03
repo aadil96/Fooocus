@@ -40,7 +40,7 @@
     "checkpoint_downloads": {
         "colossusProjectXLSFW_v53Trained.safetensors": "https://civitai.com/api/download/models/238319?type=Model&format=SafeTensor&size=full&fp=fp16",
         "sdxlYamersRealisticNSFW_v4VAE.safetensors": "https://civitai.com/api/download/models/227767?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "bluePencilXL_v050.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/bluePencilXL_v050.safetensors",
         "DreamShaper_8_pruned.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/DreamShaper_8_pruned.safetensors",
         "realisticStockPhoto_v10.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v10.safetensors",
@@ -57,5 +57,12 @@
         "ral-exposure-sdxl.safetensors": "https://civitai.com/api/download/models/237604?type=Model&format=SafeTensor",
         "xl-shanbailing-1003fire-000010.safetensors": "https://civitai.com/api/download/models/175257",
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
-    }
+    },
+    "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
 }
