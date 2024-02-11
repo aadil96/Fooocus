@@ -41,7 +41,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realcartoonXL_v5.safetensors": "https://civitai.com/api/download/models/254091?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "realcartoonXL_v5.safetensors": "https://civitai.com/api/download/models/254091?token=b7d7528b27d9c633d71b28ca501e2081&type=Model&format=SafeTensor&size=full&fp=fp16",
         "colossusProjectXLSFW_v53Trained.safetensors": "https://civitai.com/api/download/models/238319?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {
