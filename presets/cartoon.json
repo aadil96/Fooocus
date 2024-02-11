@@ -1,6 +1,6 @@
 {
     "default_model": "realcartoonXL_v5.safetensors",
-    "default_refiner": "realcartoonXL_v5.safetensors",
+    "default_refiner": "None",
     "default_refiner_switch": 0.667,
     "default_loras": [
         [
